@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 07:34:55 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency]]></title>
@@ -12,6 +12,13 @@
             <link>http://adgrants.info/digital-agency/index.html</link>
             <guid isPermaLink="false">d7fc108b-477e-4b99-ba62-c08dffffddd2</guid>
             <pubDate>Wed, 09 Mar 2016 07:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Application process]]></title>
+            <description><![CDATA[<article><h1>Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
+            <link>http://adgrants.info/application-process/index.html</link>
+            <guid isPermaLink="false">569aa19d-8746-4bf9-bf52-5a741405b6a1</guid>
+            <pubDate>Wed, 09 Mar 2016 07:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nonprofit Success Stories | Google Ad Grants - Google]]></title>
