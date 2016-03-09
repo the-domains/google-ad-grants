@@ -4,7 +4,7 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 07:05:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Programme Benefits ]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Wed, 09 Mar 2016 06:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google Ad Grants]]></title>
+            <description><![CDATA[<article><h1>Google Ad Grants</h1><p>You are in the Google AdWords Community Get help in our discussion boards New to the Google Advertiser Community? Have a look at these great resources . Want to learn more? Head over to the Learn section for Articles and Videos. Have a question? Ask it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11746349cf22a4f4440ddfed2f4d3e60c549778f.jpg"></article>]]></description>
+            <link>https://www.en.advertisercommunity.com/t5/Google-Ad-Grants/bd-p/adgrants#</link>
+            <guid isPermaLink="false">02fdd47a-9fa2-48b7-adb7-c1e9cabcae45</guid>
+            <pubDate>Wed, 09 Mar 2016 07:04:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Let’s change the world.]]></title>
-            <description><![CDATA[<article><h1>Let’s change the world.</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Let’s change the world.</h1><p>Learn more about the benefits of nonprofit advertising and how Google Ad Grants can help you target new contributors and find volunteers with AdWords.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png"></article>]]></description>
             <link>http://www.google.com/grants/benefits/</link>
             <guid isPermaLink="false">84172eba-8356-470d-b9fd-f9e8261cc2f2</guid>
             <pubDate>Wed, 09 Mar 2016 07:02:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.google.com/grants/</link>
             <guid isPermaLink="false">9f7ceb08-1890-4ad4-8d28-4cf9f697d7ce</guid>
             <pubDate>Wed, 09 Mar 2016 06:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube Non-Profit Program]]></title>
-            <description><![CDATA[<article><h1>YouTube Non-Profit Program</h1><h2>Free, enriched version of YouTube just for non-profits </h2><p> Tell the story of your organisation or cause through video on YouTube.</p></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/products/#youtube#tab4</link>
-            <guid isPermaLink="false">336e9b72-7b9d-4a35-bc01-cde45994ba8a</guid>
-            <pubDate>Wed, 09 Mar 2016 06:46:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
