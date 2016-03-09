@@ -17,8 +17,8 @@ keywords:
   - keywords
   - message
 description: More visibility. More donations. More volunteers. That’s what comes from sharing your message with the people who are most likely to engage.
-datePublished: '2016-03-09T07:30:19.333Z'
-dateModified: '2016-03-09T07:30:17.340Z'
+datePublished: '2016-03-09T23:35:27.410Z'
+dateModified: '2016-03-09T23:10:39.899Z'
 author: []
 related: []
 app_links: []
@@ -35,8 +35,14 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Let's change the world.
+# [Let's change the world][0].
 
-More visibility. More donations. More volunteers. That's what comes from sharing your message with the people who are most likely to engage.
+## More visibility. More donations. More volunteers. That's what comes from sharing your message with the people who are most likely to engage.
 
-<article style=""><h1>Pay Per Click &amp; Nonprofit Advertising &amp;vert; Google Ad Grants - Google</h1><p>Learn more about the benefits of nonprofit advertising and how Google Ad Grants can help you target new contributors and find volunteers with AdWords&amp;period;</p><img src="http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" /></article>
+<article style=""><h1>Pay Per Click &amp; Nonprofit Advertising | Google Ad Grants - Google</h1><p>Learn more about the benefits of nonprofit advertising and how Google Ad Grants can help you target new contributors and find volunteers with AdWords.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png" /></article>
+
+## "Google Ad Grants has helped us reach thousands of supporters around the country, helping us effect change through awareness."
+
+**Ping Lo**, The Fred Hollows Foundation
+
+[0]: http://www.google.com/grants/benefits/
