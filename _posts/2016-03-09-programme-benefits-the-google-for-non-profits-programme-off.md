@@ -1,11 +1,11 @@
 ---
 description: Programme Benefits  The Google for Non-profits Programme offers qualified organisations access to free versions of paid Google products and special features des
 author: []
-datePublished: '2016-03-09T05:47:37.039Z'
+datePublished: '2016-03-09T05:58:45.492Z'
 publisher:
   domain: support.google.com
   name: support.google.com
-dateModified: '2016-03-09T05:35:30.047Z'
+dateModified: '2016-03-09T05:31:03.043Z'
 title: ''
 sourcePath: _posts/2016-03-09-programme-benefits-the-google-for-non-profits-programme-off.md
 published: true
