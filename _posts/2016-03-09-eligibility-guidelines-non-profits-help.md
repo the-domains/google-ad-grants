@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://support.google.com/nonprofits/answer/3215869?hl=en-AU&ref_topic=3247288'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - techsoup
   - organisation
@@ -17,8 +17,8 @@ keywords:
   - global
   - currently
 description: 'Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme: Based in one of the following countries: Australia Austria'
-datePublished: '2016-03-09T05:53:53.269Z'
-dateModified: '2016-03-09T05:52:31.520Z'
+datePublished: '2016-03-09T06:39:04.972Z'
+dateModified: '2016-03-09T06:01:12.116Z'
 author: []
 related: []
 app_links: []
