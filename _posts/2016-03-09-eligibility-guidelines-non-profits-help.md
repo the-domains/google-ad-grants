@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://support.google.com'
-  name: Google
-  favicon: 'https://support.google.com/favicon.ico'
-  domain: support.google.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://support.google.com/nonprofits/answer/3215869?hl=en-AU&ref_topic=3247288'
+inLanguage: en
+starred: false
 keywords:
   - techsoup
   - organisation
@@ -18,17 +17,20 @@ keywords:
   - global
   - currently
 description: 'Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme: Based in one of the following countries: Australia Austria'
-inLanguage: en
+datePublished: '2016-03-09T05:53:53.269Z'
+dateModified: '2016-03-09T05:52:31.520Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://support.google.com/nonprofits/answer/3215869?hl=en-AU&ref_topic=3247288'
 title: Eligibility guidelines - Non-profits Help
-datePublished: '2016-03-09T05:47:36.918Z'
-dateModified: '2016-03-09T05:35:51.064Z'
 sourcePath: _posts/2016-03-09-eligibility-guidelines-non-profits-help.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Google
+  domain: support.google.com
+  url: 'https://support.google.com'
+  favicon: 'https://support.google.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
