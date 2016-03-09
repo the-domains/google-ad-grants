@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.google.com/nonprofits/join/'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Members will gain access to premium Google products and support, including:\_"
-datePublished: '2016-03-09T06:45:30.027Z'
-dateModified: '2016-03-09T06:38:41.615Z'
+datePublished: '2016-03-09T07:26:06.624Z'
+dateModified: '2016-03-09T07:25:08.056Z'
 author: []
 title: Join the Google for Nonprofits Program
 sourcePath: _posts/2016-03-09-join-the-program-get-further-faster-members-will-gain-acc.md
