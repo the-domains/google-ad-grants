@@ -2,37 +2,37 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://www.google.com.au/intl/en/nonprofits/casestudies/kiva.html'
+isBasedOnUrl: 'https://www.google.com.au/intl/en/nonprofits/casestudies/'
 inLanguage: en
 starred: false
 keywords:
-  - google
-  - kiva
   - non-profits
+  - google
+  - collaborative
   - organisation
-  - traffic
-  - loans
-  - website
-  - using
-  - driving
-  - mapping
-description: "Micro-lending organisation Kiva shares their experience using Google's tools to drive qualified online traffic to their website, fund millions of dollars in loans and improve thousands of lives in dozens of countries around the world. They use Google AdWords to raise awareness for their organisation and drive traffic to their website."
-datePublished: '2016-03-09T05:32:42.833Z'
-dateModified: '2016-03-09T05:32:09.801Z'
+  - beginner-friendly
+  - cutting-edge
+  - donations
+  - get
+  - technologies
+  - ballet
+description: 'Organisations like yours are using Google for Non-Profits in exciting, unexpected and effective ways. See how these non-profits are increasing their reach and impact every day.'
+datePublished: '2016-03-09T05:50:43.728Z'
+dateModified: '2016-03-09T05:50:42.697Z'
 author: []
 related: []
 app_links: []
-title: 'KIVA | Google for Non-Profits Case Study'
-sourcePath: _posts/2016-03-09-google-for-non-profits.md
-published: true
+title: Google for Non-Profits
 authors: []
 publisher:
   name: Google
   domain: www.google.com.au
   url: 'https://www.google.com.au'
   favicon: 'https://www.google.com.au/favicon.ico'
+sourcePath: _posts/2016-03-09-google-for-non-profits.md
+published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>KIVA | Google for Non-Profits Case Study</h1><p>Micro-lending organisation Kiva shares their experience using Google's tools to drive qualified online traffic to their website, fund millions of dollars in loans and improve thousands of lives in dozens of countries around the world. They use Google AdWords to raise awareness for their organisation and drive traffic to their website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3d01f962ca4379d163bbf4eb22b548e03ac156.jpg" /></article>
+<article style=""><h1>Google for Non-Profits</h1><p>Organisations like yours are using Google for Non-Profits in exciting&amp;comma; unexpected and effective ways&amp;period; See how these non-profits are increasing their reach and impact every day&amp;period;</p><img src="https://www.google.com.au/nonprofits/images/kiva-thumb.jpg" /></article>
