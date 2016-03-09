@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Google Ad Grants]]></title>
-        <description><![CDATA[Google Ad Grants]]></description>
-        <link>https://thegrid.ai/google-ad-grants/</link>
+        <title><![CDATA[adgrants.info]]></title>
+        <description><![CDATA[adgrants.info]]></description>
+        <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:05:20 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 07:17:56 GMT</lastBuildDate>
+        <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Programme Benefits ]]></title>
             <description><![CDATA[<article><h1>Programme Benefits </h1><h2>The Google for Non-profits Programme offers qualified organisations access to free versions of paid Google products and special features designed for non-profits. </h2><p>These tools can help non-profits find new donors and volunteers, work more efficiently and get supporters to take action. </p></article>]]></description>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 09 Mar 2016 06:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Powerfully simple.]]></title>
+            <description><![CDATA[<article><h1>Powerfully simple.</h1><p>Whether you’re new to search advertising or are a seasoned pro, Google Ad Grants makes it easy to launch effective campaigns, with advertising solutions designed for nonprofits of all shapes and sizes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9056a68ec4681ba9e9373b4f3ac9f32cd5860380.png"></article>]]></description>
+            <link>https://www.google.com/grants/how-it-works/index.html</link>
+            <guid isPermaLink="false">5e261bc2-734e-469c-8be6-fc6189fb5b69</guid>
+            <pubDate>Wed, 09 Mar 2016 07:17:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google Ad Grants]]></title>
             <description><![CDATA[<article><h1>Google Ad Grants</h1><p>You are in the Google AdWords Community Get help in our discussion boards New to the Google Advertiser Community? Have a look at these great resources . Want to learn more? Head over to the Learn section for Articles and Videos. Have a question? Ask it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11746349cf22a4f4440ddfed2f4d3e60c549778f.jpg"></article>]]></description>
             <link>https://www.en.advertisercommunity.com/t5/Google-Ad-Grants/bd-p/adgrants#</link>
@@ -68,13 +75,6 @@
             <link>https://support.google.com/nonprofits/answer/3367631?hl=en-AU&amp;ref_topic=3247288</link>
             <guid isPermaLink="false">569aa19d-8746-4bf9-bf52-5a741405b6a1</guid>
             <pubDate>Wed, 09 Mar 2016 06:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grants for Nonprofit Organizations | Google Ad Grants - Google]]></title>
-            <description><![CDATA[<article><h1>Grants for Nonprofit Organizations | Google Ad Grants - Google</h1><p>Explore Google Ad Grants' online services designed to help your nonprofit organization. Find out how you can get $10,000 a month to spend in AdWords advertising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png"></article>]]></description>
-            <link>http://www.google.com/grants/</link>
-            <guid isPermaLink="false">9f7ceb08-1890-4ad4-8d28-4cf9f697d7ce</guid>
-            <pubDate>Wed, 09 Mar 2016 06:52:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
