@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Follow these steps to get started with Google for Non-Profits.
-datePublished: '2016-03-09T06:40:23.874Z'
-dateModified: '2016-03-09T06:40:06.119Z'
+datePublished: '2016-03-09T06:56:31.905Z'
+dateModified: '2016-03-09T06:40:25.696Z'
 author: []
 title: "\_Google for Non-Profits Application process"
 sourcePath: _posts/2016-03-09-application-process-follow-these-steps-to-get-started-with.md
