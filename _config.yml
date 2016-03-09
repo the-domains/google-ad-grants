@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#1F3A65'
+    - '#585050'
+    - '#6890D0'
+    - '#A0C0F0'
+  brandStrength: 0.203947
+  lightness: 0.732454
+  rhythmicContrast: 0.55654
+  saturation: 0.587171
+cta: {}
+layout_spectrum: 0.599506
+name: Google Ad Grants
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.8739301802454429
