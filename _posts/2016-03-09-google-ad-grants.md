@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.google.com.au/intl/en/nonprofits/products/#adwords#tab4'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\_Reach and engage your supporters through online advertising with AdWords."
-datePublished: '2016-03-09T05:51:01.658Z'
-dateModified: '2016-03-09T05:44:49.675Z'
+datePublished: '2016-03-09T06:00:54.864Z'
+dateModified: '2016-03-09T06:00:41.161Z'
 author: []
 title: Google Ad Grants
 authors: []
