@@ -17,20 +17,20 @@ keywords:
   - organisation
   - uploading
 description: "If you're ready to get going with a specific Google product, you've come to the right place. Check out our step-by-step getting started guides to help you get up and running successfully."
-datePublished: '2016-03-09T05:56:52.726Z'
-dateModified: '2016-03-09T05:56:28.144Z'
+datePublished: '2016-03-09T06:00:15.273Z'
+dateModified: '2016-03-09T05:56:56.371Z'
 author: []
 related: []
 app_links: []
 title: Google for Non-Profits Getting Started Guide
+sourcePath: _posts/2016-03-09-google-for-non-profits-getting-started-guide.md
+published: true
 authors: []
 publisher:
   name: Google
   domain: www.google.com.au
   url: 'https://www.google.com.au'
   favicon: 'https://www.google.com.au/favicon.ico'
-sourcePath: _posts/2016-03-09-google-for-non-profits-getting-started-guide.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
