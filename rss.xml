@@ -4,8 +4,22 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 05:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google for Non-Profits]]></title>
+            <description><![CDATA[<article><h1>Google for Non-Profits</h1><p>Organisations like yours are using Google for Non-Profits in exciting, unexpected and effective ways. See how these non-profits are increasing their reach and impact every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3d01f962ca4379d163bbf4eb22b548e03ac156.jpg"></article>]]></description>
+            <link>https://www.google.com.au/intl/en/nonprofits/casestudies/</link>
+            <guid isPermaLink="false">2859f492-8f6e-4799-9831-21e8b85d242a</guid>
+            <pubDate>Wed, 09 Mar 2016 05:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UNICEF | Google for Non-Profits Case Study]]></title>
+            <description><![CDATA[<article><h1>UNICEF | Google for Non-Profits Case Study</h1><p>UNICEF, the United Nations Children's Fund, believes that nurturing and caring for children is the cornerstone of human progress. A global organisation that works in nearly 190 countries, UNICEF seeks to build a world where the rights of every child are realized.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/298d050fa0149cf07358c7be2daa7dd0908e089d.jpg"></article>]]></description>
+            <link>https://www.google.com.au/intl/en/nonprofits/casestudies/unicef.html</link>
+            <guid isPermaLink="false">96ff28cf-ff17-4613-8d29-08d9d1e9d157</guid>
+            <pubDate>Wed, 09 Mar 2016 05:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Dot Org - Local Giving: Special Programs]]></title>
             <description><![CDATA[<article><h1>Google Dot Org - Local Giving: Special Programs</h1><p>We champion people and projects that are combatting the biggest human challenges of the 21st century. Learn more about a few spotlight programs we are proud to support. The recent Zika virus outbreak has caused concern around the world and last month, the World Health Organization (WHO) declared a Public Health Emergency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c145fc50cb224853e47111aaf7efefc42abf5a48.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.google.org/global-giving/seed-funding/</link>
             <guid isPermaLink="false">a8d6e968-cdbf-4d62-a054-9f5d79c15add</guid>
             <pubDate>Wed, 09 Mar 2016 05:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[for Non-Profits]]></title>
-            <description><![CDATA[<article><h1>for Non-Profits</h1><p>As a member of Google for Non-Profits, you'll have access to premium Google products that are free for organisations like yours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26f985a0190273065e16650391feda43409a1601.jpg"></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/products/</link>
-            <guid isPermaLink="false">85d5e379-efd9-479d-9965-b44147aaf13e</guid>
-            <pubDate>Wed, 09 Mar 2016 05:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ladies Learning Code | Google for Nonprofits Case Study]]></title>
-            <description><![CDATA[<article><h1>Ladies Learning Code | Google for Nonprofits Case Study</h1><p>Ladies Learning Code works to empower everyone to feel comfortable learning beginner-friendly technical skills in a social, collaborative way. They have chapters across Canada, thriving youth programs called Girls Learning Code and Kids Learning Code and a permanent workshop space in Toronto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc59e4a1bca183c0a56b8a9d2605a13ec30eeaf.jpg"></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/casestudies/ladies-learning-code.html</link>
-            <guid isPermaLink="false">bcbec8ae-49d6-411c-b8e1-ea7ba0bac5a9</guid>
-            <pubDate>Wed, 09 Mar 2016 05:37:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
