@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Members will gain access to premium Google products and support, including:\_"
-datePublished: '2016-03-09T07:26:06.624Z'
-dateModified: '2016-03-09T07:25:08.056Z'
+datePublished: '2016-03-09T07:35:51.562Z'
+dateModified: '2016-03-09T07:35:35.085Z'
 author: []
 title: Join the Google for Nonprofits Program
 sourcePath: _posts/2016-03-09-join-the-program-get-further-faster-members-will-gain-acc.md
@@ -44,5 +44,3 @@ Free version of the Google Apps business productivity suite, including Gmail, Do
 ## One Today by Google
 
 Free access to a mobile fundraising platform. (US Only)
-
-Ready, steady, go? Apply to Google for Nonprofits Here's how to apply to Google for Nonprofits: 1 Review eligibility requirements 2 Apply to the program 3 Once approved, enroll in specific Google products 4 Get started with product tutorials
