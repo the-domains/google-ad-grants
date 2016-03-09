@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 23:02:22 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency Loves Nonprofits.]]></title>
@@ -12,6 +12,20 @@
             <link>http://adgrants.info/digital-agency/index.html</link>
             <guid isPermaLink="false">d7fc108b-477e-4b99-ba62-c08dffffddd2</guid>
             <pubDate>Wed, 09 Mar 2016 07:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connecting Up | Unleash the Power of Your Not-for-Profit]]></title>
+            <description><![CDATA[<article><h1>Connecting Up | Unleash the Power of Your Not-for-Profit</h1><p>Connecting Up is a not-for-profit organisation that works to unleash the power of not-for-profits in Australia and New Zealand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3fa89f7df443c68764e29bb898158ae1789b38.png"></article>]]></description>
+            <link>https://www.connectingup.org/</link>
+            <guid isPermaLink="false">3b45ceaf-aa1b-4188-8789-8684436e02b3</guid>
+            <pubDate>Wed, 09 Mar 2016 23:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet TechSoup - Home]]></title>
+            <description><![CDATA[<article><h1>Meet TechSoup - Home</h1><p>Whether you have resources to give or solutions you need to get, TechSoup facilitates the exchange. A trusted partner for nearly three decades, TechSoup provides both the digital platforms and in-person experiences that enable people to work together toward a more equitable world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e0c00f9ee73e30f71016f2c84ca27d44b23bb9f.jpg"></article>]]></description>
+            <link>http://www.techsoupglobal.org/</link>
+            <guid isPermaLink="false">80fde24f-f209-4909-ae85-191a2c3be8f6</guid>
+            <pubDate>Wed, 09 Mar 2016 23:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Not-for-profit Technology Survey]]></title>
@@ -61,13 +75,6 @@
             <link>https://www.google.com.au/intl/en/nonprofits/products/#adwords#tab4</link>
             <guid isPermaLink="false">e11fde18-7b6d-4876-b955-36e3dcd47442</guid>
             <pubDate>Wed, 09 Mar 2016 07:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Powerfully simple.]]></title>
-            <description><![CDATA[<article><h1>Powerfully simple.</h1><p>Whether you’re new to search advertising or are a seasoned pro, Google Ad Grants makes it easy to launch effective campaigns, with advertising solutions designed for nonprofits of all shapes and sizes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9056a68ec4681ba9e9373b4f3ac9f32cd5860380.png"></article>]]></description>
-            <link>https://www.google.com/grants/how-it-works/index.html</link>
-            <guid isPermaLink="false">5e261bc2-734e-469c-8be6-fc6189fb5b69</guid>
-            <pubDate>Wed, 09 Mar 2016 07:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
