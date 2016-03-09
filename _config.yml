@@ -1,18 +1,31 @@
-analytics: {}
+name: Google Ad Grants
+favicon: null
+layout_spectrum: 0.4985
+typography_spectrum: 0.13196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#1F3A65'
-    - '#585050'
-    - '#6890D0'
-    - '#A0C0F0'
-  brandStrength: 0.203947
-  lightness: 0.732454
-  rhythmicContrast: 0.55654
-  saturation: 0.587171
-cta: {}
-layout_spectrum: 0.599506
-name: Google Ad Grants
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.8739301802454429
+    - '#dd4330'
+    - '#009e55'
+    - '#f6b500'
+    - '#ffffff'
+    - '#050403'
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.75
+purpose:
+  - name: null
+    item: null
+    url: null
