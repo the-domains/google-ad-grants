@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.google.com'
   name: Google
-  favicon: 'https://www.google.com/images/branding/product/ico/googleg_alldp.ico'
   domain: www.google.com
+  url: 'https://www.google.com'
+  favicon: 'https://www.google.com/images/branding/product/ico/googleg_alldp.ico'
 keywords:
   - nonprofit
   - share
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.google.com/grants/success-stories/#?modal_active=none'
 title: 'Nonprofit Success Stories | Google Ad Grants - Google'
-datePublished: '2016-03-09T07:18:18.963Z'
-dateModified: '2016-03-09T07:15:46.702Z'
+datePublished: '2016-03-09T07:18:40.264Z'
+dateModified: '2016-03-09T07:18:23.295Z'
 sourcePath: _posts/2016-03-09-nonprofit-success-stories-or-google-ad-grants-google.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
