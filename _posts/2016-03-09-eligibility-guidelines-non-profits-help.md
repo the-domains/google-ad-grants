@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://support.google.com/nonprofits/answer/3215869?hl=en-AU&ref_topic=3247288'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - techsoup
   - organisation
@@ -16,9 +16,9 @@ keywords:
   - regional
   - global
   - currently
-description: 'Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme: Based in one of the following countries: Australia Austria'
-datePublished: '2016-03-09T06:56:06.521Z'
-dateModified: '2016-03-09T06:55:59.292Z'
+description: 'Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme:'
+datePublished: '2016-03-09T07:26:36.635Z'
+dateModified: '2016-03-09T07:26:30.071Z'
 author: []
 related: []
 app_links: []
@@ -91,7 +91,7 @@ Organisations that meet the following criteria are eligible to participate in th
   * Vietnam
   * United Kingdom
   * AustraliaLearn about offerings in other countries [here][0].
-2. **Registered as a charitable organisation**with the IRS or your local TechSoup Global partner. In the United States, organisations must be listed in the online database of the IRS for Google to verify their eligibility.Details for organisations in AustraliaDetails for organisations in AustriaDetails for organisations in BelgiumDetails for organisations in BotswanaDetails for organisations in BrazilDetails for organisations in BulgariaDetails for Canadian organisationsDetails for organisations in ChileDetails for organisations in ColombiaDetails for organisations in CroatiaDetails for organisations in Czech RepublicDetails for organisations in DenmarkDetails for organisations in FinlandDetails for French organisationsDetails for organisations in GermanyDetails for organisations in Hong KongDetails for organisations in HungaryDetails for organisations in IndiaDetails for organisations in IndonesiaDetails for organisations in IsraelDetails for organisations in ItalyDetails for organisations in IrelandDetails for Japanese organisationsDetails for organisations in LuxembourgDetails for organisations in KenyaDetails for organisations in KoreaDetails for organisations in MacauDetails for organisations in MalaysiaDetails for organisations in MexicoDetails for organisations in NetherlandsDetails for organisations in New ZealandDetails for organisations in NorwayDetails for organisations in PhilippinesDetails for organisations in PolandDetails for organisations in RomaniaDetails for organisations in RussiaDetails for organisations in SingaporeDetails for organisations in SlovakiaDetails for organisations in SloveniaDetails for organisations in South AfricaDetails for organisations in SpainDetails for organisations in SwedenDetails for organisations in SwitzerlandDetails for organisations in TaiwanDetails for organisations in ThailandDetails for organisations in TurkeyDetails for organisations in the United KingdomDetails for US organisationsDetails for organisations in Vietnam
+2. **Registered as a charitable organisation **with the IRS or your local TechSoup Global partner. In the United States, organisations must be listed in the online database of the IRS for Google to verify their eligibility.Details for organisations in AustraliaDetails for organisations in AustriaDetails for organisations in BelgiumDetails for organisations in BotswanaDetails for organisations in BrazilDetails for organisations in BulgariaDetails for Canadian organisationsDetails for organisations in ChileDetails for organisations in ColombiaDetails for organisations in CroatiaDetails for organisations in Czech RepublicDetails for organisations in DenmarkDetails for organisations in FinlandDetails for French organisationsDetails for organisations in GermanyDetails for organisations in Hong KongDetails for organisations in HungaryDetails for organisations in IndiaDetails for organisations in IndonesiaDetails for organisations in IsraelDetails for organisations in ItalyDetails for organisations in IrelandDetails for Japanese organisationsDetails for organisations in LuxembourgDetails for organisations in KenyaDetails for organisations in KoreaDetails for organisations in MacauDetails for organisations in MalaysiaDetails for organisations in MexicoDetails for organisations in NetherlandsDetails for organisations in New ZealandDetails for organisations in NorwayDetails for organisations in PhilippinesDetails for organisations in PolandDetails for organisations in RomaniaDetails for organisations in RussiaDetails for organisations in SingaporeDetails for organisations in SlovakiaDetails for organisations in SloveniaDetails for organisations in South AfricaDetails for organisations in SpainDetails for organisations in SwedenDetails for organisations in SwitzerlandDetails for organisations in TaiwanDetails for organisations in ThailandDetails for organisations in TurkeyDetails for organisations in the United KingdomDetails for US organisationsDetails for organisations in Vietnam
 3. **Not one of the following:**
   * Governmental entity or organisation
   * Hospital or health care organisation
