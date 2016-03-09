@@ -4,7 +4,7 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 06:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 06:58:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Programme Benefits ]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 09 Mar 2016 06:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google Apps for Non-Profits]]></title>
+            <description><![CDATA[<article><h1>Google Apps for Non-Profits</h1><h2>Reduce your IT costs and help staff and volunteers work together more effectively. </h2><p>Get the job done with Google Apps for Non-Profits:  Get free access to the Google Apps suite including Gmail, Google Calendar and Google Drive </p></article>]]></description>
+            <link>https://www.google.com.au/intl/en/nonprofits/products/#apps#tab4</link>
+            <guid isPermaLink="false">1ba32936-c3e6-412d-bcb7-f1a49335b732</guid>
+            <pubDate>Wed, 09 Mar 2016 06:57:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Application process]]></title>
             <description><![CDATA[<article><h1>Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
             <link>https://support.google.com/nonprofits/answer/3367631?hl=en-AU&amp;ref_topic=3247288</link>
@@ -67,14 +74,7 @@
             <description><![CDATA[<article><h1> Google for Non-Profits Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
             <link>https://support.google.com/nonprofits/answer/3367631?hl=en-AU&amp;ref_topic=3247288</link>
             <guid isPermaLink="false">18c22b33-2bff-462a-9505-c3c92c94306f</guid>
-            <pubDate>Wed, 09 Mar 2016 06:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Dot Org - Global Giving: Overview]]></title>
-            <description><![CDATA[<article><h1>Google Dot Org - Global Giving: Overview</h1><p>Nonprofits are changing the world and we're proud to support them. At Google, we drive impact by providing technology and grants, as well as opportunities for Googlers to give back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36a6157d075e49eef6d4aaf4bdaa8b5e7e2db447.jpg"></article>]]></description>
-            <link>https://www.google.org/global-giving/</link>
-            <guid isPermaLink="false">ff6ec8d8-70f2-4670-aa0b-96d5fe126f44</guid>
-            <pubDate>Wed, 09 Mar 2016 05:57:33 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 06:56:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
