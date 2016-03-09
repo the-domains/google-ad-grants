@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 23:36:27 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency Loves Nonprofits.]]></title>
@@ -12,6 +12,13 @@
             <link>http://adgrants.info/digital-agency/index.html</link>
             <guid isPermaLink="false">d7fc108b-477e-4b99-ba62-c08dffffddd2</guid>
             <pubDate>Wed, 09 Mar 2016 23:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let’s change the world.]]></title>
+            <description><![CDATA[<article><h1>Let’s change the world.</h1><p>Learn more about the benefits of nonprofit advertising and how Google Ad Grants can help you target new contributors and find volunteers with AdWords.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png"></article>]]></description>
+            <link>http://www.google.com/grants/benefits/</link>
+            <guid isPermaLink="false">84172eba-8356-470d-b9fd-f9e8261cc2f2</guid>
+            <pubDate>Wed, 09 Mar 2016 23:35:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Connecting Up | Unleash the Power of Your Not-for-Profit]]></title>
@@ -68,13 +75,6 @@
             <link>http://adgrants.info/join-the-google-for-nonprofits-program/index.html</link>
             <guid isPermaLink="false">0ab80688-7e5d-4e3e-9392-d9bce7b49ea7</guid>
             <pubDate>Wed, 09 Mar 2016 07:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Ad Grants]]></title>
-            <description><![CDATA[<article><h1>Google Ad Grants</h1><h2> Reach and engage your supporters through online advertising with AdWords.</h2><p> Promote your organisation’s website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work </p></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/products/#adwords#tab4</link>
-            <guid isPermaLink="false">e11fde18-7b6d-4876-b955-36e3dcd47442</guid>
-            <pubDate>Wed, 09 Mar 2016 23:06:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
