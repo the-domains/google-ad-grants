@@ -4,8 +4,15 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 05:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Donation cards on YouTube]]></title>
+            <description><![CDATA[<article><h1>Donation cards on YouTube</h1><p>The donation card on YouTube makes it simple for nonprofits to raise money using YouTube videos. They're a simple add-on to your YouTube videos that allow anyone watching to donate to an organization directly from a video. Google covers the processing fees, so the organization receives 100% of the money donated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8e4ac57379e0ab7ca8a75ebb637f3ea976bf6d7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JASn8EsO174</link>
+            <guid isPermaLink="false">27354d29-dddd-46bb-8130-991e5d058a24</guid>
+            <pubDate>Wed, 09 Mar 2016 05:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Ad Grants]]></title>
             <description><![CDATA[<article><h1>Google Ad Grants</h1><p> Reach and engage your supporters through online advertising with AdWords.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://support.google.com/nonprofits/answer/3215869?hl=en-AU&amp;ref_topic=3247288</link>
             <guid isPermaLink="false">4026cdc1-53b2-40dc-a2c5-972ae6171424</guid>
             <pubDate>Wed, 09 Mar 2016 05:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Dot Org - Global Giving: Global Impact Awards]]></title>
-            <description><![CDATA[<article><h1>Google Dot Org - Global Giving: Global Impact Awards</h1><p>Nonprofits are changing the world and we're proud to support them. At Google, we drive impact by providing technology and grants, as well as opportunities for Googlers to give back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25e92ae540591910ee3d097009d11d1247122b4f.jpg"></article>]]></description>
-            <link>https://www.google.org/global-giving/global-impact-awards/</link>
-            <guid isPermaLink="false">ccd46919-7169-4629-8022-ae187ba43d26</guid>
-            <pubDate>Wed, 09 Mar 2016 05:46:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
