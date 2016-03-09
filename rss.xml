@@ -4,8 +4,15 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 06:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 06:39:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eligibility guidelines - Non-profits Help]]></title>
+            <description><![CDATA[<article><h1>Eligibility guidelines - Non-profits Help</h1><p>Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme: Based in one of the following countries: Australia Austria</p></article>]]></description>
+            <link>https://support.google.com/nonprofits/answer/3215869?hl=en-AU&amp;ref_topic=3247288</link>
+            <guid isPermaLink="false">4026cdc1-53b2-40dc-a2c5-972ae6171424</guid>
+            <pubDate>Wed, 09 Mar 2016 06:39:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Join the Google for Nonprofits Program]]></title>
             <description><![CDATA[<article><h1>Join the Google for Nonprofits Program</h1><h2> Get further, faster. </h2><p>Members will gain access to premium Google products and support, including: </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=JASn8EsO174</link>
             <guid isPermaLink="false">27354d29-dddd-46bb-8130-991e5d058a24</guid>
             <pubDate>Wed, 09 Mar 2016 05:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google for Non-Profits]]></title>
-            <description><![CDATA[<article><h1>Google for Non-Profits</h1><p>Organisations like yours are using Google for Non-Profits in exciting, unexpected and effective ways. See how these non-profits are increasing their reach and impact every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3d01f962ca4379d163bbf4eb22b548e03ac156.jpg"></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/casestudies/</link>
-            <guid isPermaLink="false">2859f492-8f6e-4799-9831-21e8b85d242a</guid>
-            <pubDate>Wed, 09 Mar 2016 05:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
