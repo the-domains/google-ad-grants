@@ -4,15 +4,8 @@
         <description><![CDATA[Google Ad Grants]]></description>
         <link>https://thegrid.ai/google-ad-grants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 05:49:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-ad-grants/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Google for Non-Profits]]></title>
-            <description><![CDATA[<article><h1>Google for Non-Profits</h1><p>Organisations like yours are using Google for Non-Profits in exciting, unexpected and effective ways. See how these non-profits are increasing their reach and impact every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3d01f962ca4379d163bbf4eb22b548e03ac156.jpg"></article>]]></description>
-            <link>https://www.google.com.au/intl/en/nonprofits/casestudies/</link>
-            <guid isPermaLink="false">2859f492-8f6e-4799-9831-21e8b85d242a</guid>
-            <pubDate>Wed, 09 Mar 2016 05:50:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UNICEF | Google for Non-Profits Case Study]]></title>
             <description><![CDATA[<article><h1>UNICEF | Google for Non-Profits Case Study</h1><p>UNICEF, the United Nations Children's Fund, believes that nurturing and caring for children is the cornerstone of human progress. A global organisation that works in nearly 190 countries, UNICEF seeks to build a world where the rights of every child are realized.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/298d050fa0149cf07358c7be2daa7dd0908e089d.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.google.org/global-giving/seed-funding/</link>
             <guid isPermaLink="false">a8d6e968-cdbf-4d62-a054-9f5d79c15add</guid>
             <pubDate>Wed, 09 Mar 2016 05:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[for Non-Profits]]></title>
+            <description><![CDATA[<article><h1>for Non-Profits</h1><p>As a member of Google for Non-Profits, you'll have access to premium Google products that are free for organisations like yours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26f985a0190273065e16650391feda43409a1601.jpg"></article>]]></description>
+            <link>https://www.google.com.au/intl/en/nonprofits/products/</link>
+            <guid isPermaLink="false">85d5e379-efd9-479d-9965-b44147aaf13e</guid>
+            <pubDate>Wed, 09 Mar 2016 05:45:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
