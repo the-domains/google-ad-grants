@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 07:19:35 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Programme Benefits ]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 09 Mar 2016 06:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nonprofit Success Stories | Google Ad Grants - Google]]></title>
+            <description><![CDATA[<article><h1>Nonprofit Success Stories | Google Ad Grants - Google</h1><p>Check out some of the success stories from other nonprofit organizations that have benefited from Google Ad Grants. Let us help you share your story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a1fba92ec17ffab0220bfd3a86b6ca355998971.jpg"></article>]]></description>
+            <link>https://www.google.com/grants/success-stories/#?modal_active=none</link>
+            <guid isPermaLink="false">8d8019c9-df49-486a-b701-dddd1a1bcefa</guid>
+            <pubDate>Wed, 09 Mar 2016 07:18:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Powerfully simple.]]></title>
             <description><![CDATA[<article><h1>Powerfully simple.</h1><p>Whether you’re new to search advertising or are a seasoned pro, Google Ad Grants makes it easy to launch effective campaigns, with advertising solutions designed for nonprofits of all shapes and sizes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9056a68ec4681ba9e9373b4f3ac9f32cd5860380.png"></article>]]></description>
             <link>https://www.google.com/grants/how-it-works/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://www.google.com.au/intl/en/nonprofits/products/#apps#tab4</link>
             <guid isPermaLink="false">1ba32936-c3e6-412d-bcb7-f1a49335b732</guid>
             <pubDate>Wed, 09 Mar 2016 06:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Application process]]></title>
-            <description><![CDATA[<article><h1>Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
-            <link>https://support.google.com/nonprofits/answer/3367631?hl=en-AU&amp;ref_topic=3247288</link>
-            <guid isPermaLink="false">569aa19d-8746-4bf9-bf52-5a741405b6a1</guid>
-            <pubDate>Wed, 09 Mar 2016 06:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
