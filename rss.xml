@@ -4,8 +4,15 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 00:43:12 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Application process]]></title>
+            <description><![CDATA[<article><h1>Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
+            <link>http://adgrants.info/application-process/index.html</link>
+            <guid isPermaLink="false">569aa19d-8746-4bf9-bf52-5a741405b6a1</guid>
+            <pubDate>Thu, 10 Mar 2016 00:42:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Agency Loves Nonprofits.]]></title>
             <description><![CDATA[<article><h1>Digital Agency Loves Nonprofits.</h1><p>Digital Agency specialises in helping nonprofits achieve their missions by helping them make better decisions on their digital spend by better measuring their digital effectiveness with Google Analytics and can help transform your nonprofit's digital reach with US$10000 per month worth of in-kind Google Search Ads via Google Ad Grants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbb75dcb578feb565b5e6d78426d2f5ca839039.png"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.connectingup.org/blog/national-not-profit-technology-survey</link>
             <guid isPermaLink="false">bf7cca26-cc6b-4cab-99f3-21597eb36c02</guid>
             <pubDate>Thu, 10 Mar 2016 00:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Application process]]></title>
-            <description><![CDATA[<article><h1>Application process</h1><p>Follow these steps to get started with Google for Non-Profits.</p></article>]]></description>
-            <link>http://adgrants.info/application-process/index.html</link>
-            <guid isPermaLink="false">569aa19d-8746-4bf9-bf52-5a741405b6a1</guid>
-            <pubDate>Wed, 09 Mar 2016 07:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nonprofit Success Stories | Google Ad Grants - Google]]></title>
