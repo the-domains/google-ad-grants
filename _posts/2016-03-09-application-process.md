@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - non-profits
   - google
@@ -16,8 +16,8 @@ keywords:
   - within
   - requires
 description: Follow these steps to get started with Google for Non-Profits.
-datePublished: '2016-03-09T07:34:54.561Z'
-dateModified: '2016-03-09T07:34:41.006Z'
+datePublished: '2016-03-10T00:42:29.099Z'
+dateModified: '2016-03-09T23:02:35.229Z'
 author: []
 related: []
 app_links: []
