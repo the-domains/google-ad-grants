@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 00:51:43 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eligibility guidelines]]></title>
@@ -26,6 +26,13 @@
             <link>http://adgrants.info/digital-agency/index.html</link>
             <guid isPermaLink="false">d7fc108b-477e-4b99-ba62-c08dffffddd2</guid>
             <pubDate>Wed, 09 Mar 2016 23:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grants for Nonprofit Organizations | Google Ad Grants - Google]]></title>
+            <description><![CDATA[<article><h1>Grants for Nonprofit Organizations | Google Ad Grants - Google</h1><p>Explore Google Ad Grants' online services designed to help your nonprofit organization. Find out how you can get $10,000 a month to spend in AdWords advertising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6afb26e2a47f2f42b9937cb58c1a0cf7b8c4fa4e.png"></article>]]></description>
+            <link>http://www.google.com/grants/</link>
+            <guid isPermaLink="false">9f7ceb08-1890-4ad4-8d28-4cf9f697d7ce</guid>
+            <pubDate>Thu, 10 Mar 2016 00:50:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let’s change the world.]]></title>
@@ -68,13 +75,6 @@
             <link>https://support.google.com/nonprofits/answer/1614581?hl=en-AU&amp;ref_topic=3247288</link>
             <guid isPermaLink="false">118604e5-3e03-4eb9-89b0-7184ef70eb0e</guid>
             <pubDate>Wed, 09 Mar 2016 06:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Join the Google for Nonprofits Program]]></title>
-            <description><![CDATA[<article><h1>Join the Google for Nonprofits Program</h1><h2> Get further, faster. </h2><p>Members will gain access to premium Google products and support, including: </p></article>]]></description>
-            <link>http://adgrants.info/join-the-google-for-nonprofits-program/index.html</link>
-            <guid isPermaLink="false">0ab80688-7e5d-4e3e-9392-d9bce7b49ea7</guid>
-            <pubDate>Thu, 10 Mar 2016 00:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
