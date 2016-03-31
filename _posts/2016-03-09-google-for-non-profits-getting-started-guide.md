@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.google.com.au/intl/en/nonprofits/learning/getting-started.html'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - google
   - adwords
@@ -17,8 +17,8 @@ keywords:
   - organisation
   - uploading
 description: "If you're ready to get going with a specific Google product, you've come to the right place. Check out our step-by-step getting started guides to help you get up and running successfully."
-datePublished: '2016-03-31T07:23:52.200Z'
-dateModified: '2016-03-31T07:23:24.235Z'
+datePublished: '2016-03-31T10:18:37.958Z'
+dateModified: '2016-03-31T10:14:46.424Z'
 author: []
 related: []
 app_links: []
