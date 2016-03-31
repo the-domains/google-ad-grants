@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\_Promote your organisation’s website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work\_"
-datePublished: '2016-03-31T10:21:58.353Z'
-dateModified: '2016-03-31T10:18:06.806Z'
+datePublished: '2016-03-31T21:56:25.319Z'
+dateModified: '2016-03-31T21:56:07.394Z'
 author: []
 title: Google Ad Grants
 sourcePath: _posts/2016-03-09-google-ad-grants.md
