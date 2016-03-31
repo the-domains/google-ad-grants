@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Members will gain access to premium Google products and support, including:\_"
-datePublished: '2016-03-10T00:42:40.585Z'
-dateModified: '2016-03-10T00:42:11.219Z'
+datePublished: '2016-03-31T06:28:09.597Z'
+dateModified: '2016-03-31T06:28:08.223Z'
 author: []
 title: Join the Google for Nonprofits Program
 sourcePath: _posts/2016-03-09-join-the-program-get-further-faster-members-will-gain-acc.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Join the Google for Nonprofits Program
+# [Join the Google for Nonprofits Program][0]
 
 ## Get further, faster. 
 
@@ -44,3 +44,7 @@ Free version of the Google Apps business productivity suite, including Gmail, Do
 ## One Today by Google
 
 Free access to a mobile fundraising platform. (US Only)
+
+# [Join the Google for Nonprofits Program][0]
+
+[0]: https://www.google.com.au/intl/en/nonprofits/join/
