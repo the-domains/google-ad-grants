@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.google.com.au/intl/en/nonprofits/products/#adwords#tab4'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "\_Promote your organisation’s website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work\_"
-datePublished: '2016-03-09T23:06:09.695Z'
-dateModified: '2016-03-09T23:06:05.868Z'
+datePublished: '2016-03-31T10:21:58.353Z'
+dateModified: '2016-03-31T10:18:06.806Z'
 author: []
 title: Google Ad Grants
 sourcePath: _posts/2016-03-09-google-ad-grants.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.google.com.au
   url: null
   favicon: null
+url: google-ad-grants/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 
 ## Reach and engage your supporters through online advertising with AdWords.
 
-# With Google Ad Grants, you can receive 10.000 USD per month in in-kind AdWords(tm) advertising so that you can:
+# With Google Ad Grants, you can receive $10000 USD per month in in-kind AdWords(tm) advertising so that you can:
 
 Promote your organisation's website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work 
 
