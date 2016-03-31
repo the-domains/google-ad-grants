@@ -16,8 +16,8 @@ keywords:
   - analytics
   - specialises
 description: "Digital Agency specialises in helping nonprofits achieve their missions by helping them make better decisions on their digital spend by better measuring their digital effectiveness with Google Analytics and can help transform your nonprofit's digital reach with US$10000 per month worth of in-kind Google Search Ads via Google Ad Grants."
-datePublished: '2016-03-09T23:06:44.042Z'
-dateModified: '2016-03-09T23:02:15.490Z'
+datePublished: '2016-03-31T10:06:44.546Z'
+dateModified: '2016-03-31T10:06:39.822Z'
 author: []
 related:
   - score: 0.6015600562
@@ -42,9 +42,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Digital Agency Loves Nonprofits.
+<article style=""><h1>Digital Agency Loves Nonprofits.</h1><p>Digital Agency specialises in helping nonprofits achieve their missions by helping them make better decisions on their digital spend by better measuring their digital effectiveness with Google Analytics and can help transform your nonprofit's digital reach with US$10000 per month worth of in-kind Google Search Ads via Google Ad Grants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbb75dcb578feb565b5e6d78426d2f5ca839039.png" /></article>
 
-<article style=""><h1>Digital Agency Loves Nonprofits.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbb75dcb578feb565b5e6d78426d2f5ca839039.png" /></article>
+# Digital Agency Loves Nonprofits.
 
 Digital Agency specialises in helping nonprofits achieve their missions by helping them make better decisions on their digital spend by better measuring their digital effectiveness with Google Analytics and can help transform your nonprofit's digital reach with US$10000 per month worth of in-kind Google Search Ads via Google Ad Grants.
 
