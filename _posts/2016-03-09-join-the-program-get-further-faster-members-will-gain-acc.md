@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Members will gain access to premium Google products and support, including:\_"
-datePublished: '2016-03-31T06:37:32.953Z'
-dateModified: '2016-03-31T06:37:25.263Z'
+datePublished: '2016-03-31T06:57:45.346Z'
+dateModified: '2016-03-31T06:56:53.906Z'
 author: []
 title: Join the Google for Nonprofits Program
 sourcePath: _posts/2016-03-09-join-the-program-get-further-faster-members-will-gain-acc.md
@@ -23,6 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55e07859-e5d5-4f47-9599-7e599c3c3c66.png)
+
 # [Join the Google for Nonprofits Program][0]
 
 ## Get further, faster. 
