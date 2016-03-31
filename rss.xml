@@ -4,8 +4,15 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 21:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 21:56:48 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Ad Grants]]></title>
+            <description><![CDATA[<article><h1>Google Ad Grants</h1><h2> Reach and engage your supporters through online advertising with AdWords.</h2><p> Promote your organisation’s website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work </p></article>]]></description>
+            <link>http://adgrants.info/google-ad-grants/index.html</link>
+            <guid isPermaLink="false">e11fde18-7b6d-4876-b955-36e3dcd47442</guid>
+            <pubDate>Thu, 31 Mar 2016 21:56:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get in touch]]></title>
             <description><![CDATA[<article><h1>Get in touch</h1><p>Digital Agency specialises in helping nonprofits achieve their missions by helping them make better decisions on their digital spend by better measuring their digital effectiveness with Google Analytics and can help transform your nonprofit's digital reach with US$10000 per month worth of in-kind Google Search Ads via Google Ad Grants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75cd27248bf440c16e5f8d0b5706c0d7cb880c52.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://adgrants.info/eligibility-guidelines/index.html</link>
             <guid isPermaLink="false">4026cdc1-53b2-40dc-a2c5-972ae6171424</guid>
             <pubDate>Thu, 10 Mar 2016 00:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Ad Grants]]></title>
-            <description><![CDATA[<article><h1>Google Ad Grants</h1><h2> Reach and engage your supporters through online advertising with AdWords.</h2><p> Promote your organisation’s website on Google Raise awareness by choosing relevant keywords and creating unique ads to highlight your work </p></article>]]></description>
-            <link>http://adgrants.info/google-ad-grants/index.html</link>
-            <guid isPermaLink="false">e11fde18-7b6d-4876-b955-36e3dcd47442</guid>
-            <pubDate>Thu, 31 Mar 2016 10:21:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google for Non-Profits Case Studies]]></title>
