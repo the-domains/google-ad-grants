@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 06:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 06:28:40 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Join the Google for Nonprofits Program]]></title>
@@ -47,6 +47,13 @@
             <link>http://www.google.com/grants/benefits/</link>
             <guid isPermaLink="false">84172eba-8356-470d-b9fd-f9e8261cc2f2</guid>
             <pubDate>Wed, 09 Mar 2016 23:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connecting Up | Unleash the Power of Your Not-for-Profit]]></title>
+            <description><![CDATA[<article><h1>Connecting Up | Unleash the Power of Your Not-for-Profit</h1><p>Connecting Up is a not-for-profit organisation that works to unleash the power of not-for-profits in Australia and New Zealand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3fa89f7df443c68764e29bb898158ae1789b38.png"></article>]]></description>
+            <link>https://www.connectingup.org/</link>
+            <guid isPermaLink="false">3b45ceaf-aa1b-4188-8789-8684436e02b3</guid>
+            <pubDate>Wed, 09 Mar 2016 23:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet TechSoup - Home]]></title>
