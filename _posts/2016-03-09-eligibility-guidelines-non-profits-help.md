@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - techsoup
   - organisation
@@ -16,8 +16,8 @@ keywords:
   - global
   - currently
 description: Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme
-datePublished: '2016-03-10T00:45:38.312Z'
-dateModified: '2016-03-10T00:45:30.014Z'
+datePublished: '2016-03-31T22:00:59.393Z'
+dateModified: '2016-03-31T22:00:41.040Z'
 author: []
 related: []
 app_links: []
