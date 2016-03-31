@@ -17,20 +17,20 @@ keywords:
   - sanitation
   - safely
 description: 'Organisations like yours are using Google for Non-Profits in exciting, unexpected and effective ways. See how these non-profits are increasing their reach and impact every day.'
-datePublished: '2016-03-31T06:45:45.735Z'
-dateModified: '2016-03-31T06:45:32.794Z'
+datePublished: '2016-03-31T10:19:36.466Z'
+dateModified: '2016-03-31T10:19:30.180Z'
 author: []
 related: []
 app_links: []
 title: Google for Non-Profits Case Studies
+sourcePath: _posts/2016-03-31-google-for-non-profits-case-studies.md
+published: true
 authors: []
 publisher:
   name: Google
   domain: www.google.com.au
   url: 'https://www.google.com.au'
   favicon: 'https://www.google.com.au/favicon.ico'
-sourcePath: _posts/2016-03-31-google-for-non-profits-case-studies.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
