@@ -4,7 +4,7 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 07:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 07:22:44 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Join the Google for Nonprofits Program]]></title>
@@ -26,6 +26,13 @@
             <link>http://adgrants.info/digital-agency/index.html</link>
             <guid isPermaLink="false">d7fc108b-477e-4b99-ba62-c08dffffddd2</guid>
             <pubDate>Wed, 09 Mar 2016 23:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Join the program</p>]]></description>
+            <link>https://www.google.com.au/intl/en/nonprofits/join/</link>
+            <guid isPermaLink="false">9aaf656b-58dc-49ad-8a54-c5444d8055ed</guid>
+            <pubDate>Thu, 31 Mar 2016 06:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google for Non-Profits Case Studies]]></title>
