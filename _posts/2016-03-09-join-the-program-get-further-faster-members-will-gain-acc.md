@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.google.com/nonprofits/join/'
 inLanguage: null
 starred: true
 keywords: []
 description: "Members will gain access to premium Google products and support, including:\_"
-datePublished: '2016-03-31T06:28:09.597Z'
-dateModified: '2016-03-31T06:28:08.223Z'
+datePublished: '2016-03-31T06:33:23.595Z'
+dateModified: '2016-03-31T06:32:15.398Z'
 author: []
 title: Join the Google for Nonprofits Program
 sourcePath: _posts/2016-03-09-join-the-program-get-further-faster-members-will-gain-acc.md
@@ -18,7 +19,6 @@ publisher:
   domain: www.google.com
   url: null
   favicon: null
-url: join-the-google-for-nonprofits-program/index.html
 _context: 'http://schema.org'
 _type: Article
 
