@@ -4,8 +4,15 @@
         <description><![CDATA[adgrants.info]]></description>
         <link>http://adgrants.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 06:29:17 GMT</lastBuildDate>
         <atom:link href="http://adgrants.info/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Join the Google for Nonprofits Program]]></title>
+            <description><![CDATA[<article><h1>Join the Google for Nonprofits Program</h1><h2> Get further, faster. </h2><p>Members will gain access to premium Google products and support, including: </p></article>]]></description>
+            <link>http://adgrants.info/join-the-google-for-nonprofits-program/index.html</link>
+            <guid isPermaLink="false">0ab80688-7e5d-4e3e-9392-d9bce7b49ea7</guid>
+            <pubDate>Thu, 31 Mar 2016 06:28:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eligibility guidelines]]></title>
             <description><![CDATA[<article><h1>Eligibility guidelines</h1><p>Organisations that meet the following criteria are eligible to participate in the Google for Non-Profits programme</p></article>]]></description>
@@ -42,13 +49,6 @@
             <pubDate>Wed, 09 Mar 2016 23:35:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Connecting Up | Unleash the Power of Your Not-for-Profit]]></title>
-            <description><![CDATA[<article><h1>Connecting Up | Unleash the Power of Your Not-for-Profit</h1><p>Connecting Up is a not-for-profit organisation that works to unleash the power of not-for-profits in Australia and New Zealand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3fa89f7df443c68764e29bb898158ae1789b38.png"></article>]]></description>
-            <link>https://www.connectingup.org/</link>
-            <guid isPermaLink="false">3b45ceaf-aa1b-4188-8789-8684436e02b3</guid>
-            <pubDate>Wed, 09 Mar 2016 23:01:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meet TechSoup - Home]]></title>
             <description><![CDATA[<article><h1>Meet TechSoup - Home</h1><p>Whether you have resources to give or solutions you need to get, TechSoup facilitates the exchange. A trusted partner for nearly three decades, TechSoup provides both the digital platforms and in-person experiences that enable people to work together toward a more equitable world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e0c00f9ee73e30f71016f2c84ca27d44b23bb9f.jpg"></article>]]></description>
             <link>http://www.techsoupglobal.org/</link>
@@ -68,13 +68,6 @@
             <link>https://www.google.com/grants/success-stories/#?modal_active=none</link>
             <guid isPermaLink="false">8d8019c9-df49-486a-b701-dddd1a1bcefa</guid>
             <pubDate>Wed, 09 Mar 2016 07:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Programme Benefits ]]></title>
-            <description><![CDATA[<article><h1>Programme Benefits </h1><h2>The Google for Non-profits Programme offers qualified organisations access to free versions of paid Google products and special features designed for non-profits. </h2><p>These tools can help non-profits find new donors and volunteers, work more efficiently and get supporters to take action. </p></article>]]></description>
-            <link>https://support.google.com/nonprofits/answer/1614581?hl=en-AU&amp;ref_topic=3247288</link>
-            <guid isPermaLink="false">118604e5-3e03-4eb9-89b0-7184ef70eb0e</guid>
-            <pubDate>Wed, 09 Mar 2016 06:52:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
