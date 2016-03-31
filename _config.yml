@@ -1,7 +1,7 @@
 name: Google Ad Grants
 favicon: null
 layout_spectrum: 0.4985
-typography_spectrum: 0.13196
+typography_spectrum: 0.81472
 title: adgrants.info
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f6b500'
     - '#ffffff'
     - '#050403'
-  brandStrength: 0.1875
+  brandStrength: 0.0625
   lightness: 0.75
   saturation: 0.3125
   rhythmicContrast: 0.75
