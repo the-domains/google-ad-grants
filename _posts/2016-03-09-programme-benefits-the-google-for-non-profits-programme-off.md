@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://support.google.com/nonprofits/answer/1614581?hl=en-AU&ref_topic=3247288'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "These tools can help non-profits find new donors and volunteers, work more efficiently and get supporters to take action.\_"
-datePublished: '2016-03-09T06:52:57.760Z'
-dateModified: '2016-03-09T06:47:30.210Z'
+datePublished: '2016-03-31T10:18:27.189Z'
+dateModified: '2016-03-31T10:17:10.102Z'
 author: []
 title: "Programme Benefits\_"
 sourcePath: _posts/2016-03-09-programme-benefits-the-google-for-non-profits-programme-off.md
@@ -19,6 +18,7 @@ publisher:
   domain: support.google.com
   url: null
   favicon: null
+url: programme-benefits/index.html
 _context: 'http://schema.org'
 _type: Article
 
